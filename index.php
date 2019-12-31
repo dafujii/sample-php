@@ -2,4 +2,4 @@
 
 echo '<h1>Hello, World!</h1>';
 
-echo '<p>foo bar</p>';
+echo '<p>CodeDeploy完全に理解した</p>';
